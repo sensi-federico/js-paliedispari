@@ -6,7 +6,6 @@
 
 // chiedo una stringa all'utente e la copio in una variabile
 const string = String(prompt('Inserisci una parola'));
-
 palindrome(string);
 
 function palindrome (str) {
